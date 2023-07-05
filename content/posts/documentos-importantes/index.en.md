@@ -25,6 +25,8 @@ toc:
 
 <!--more-->
 
+<iframe width="790" height="515" src="https://www.youtube.com/embed/D7YQQuhf328" data-external= "1" > </iframe>
+
 # Site da pesquisa UNISA 
 Neste [link](https://www.unisa.br/pesquisa/) você encontra telefones úteis da direção de pesquisa da UNISA assim como documentos como o Formulário Pedido de Autorização para Realização de Projeto de Pesquisa Científica, toda a produção de pesquisa do programa, eventos científicos, informações sobre o biotério e laboratórios de pesquisa, entre outros!
 
@@ -35,6 +37,8 @@ Neste [link](https://www.unisa.br/cep-comite-de-etica-em-pesquisa/) tem informa�
 Para acessar o Manual de Normatização de Trabalhos Acadêmicos [clique aqui](https://unisa-site-cdn.s3.amazonaws.com/uploads/2023/03/2022_Manual-de-Normatizacao_ABNT.pdf)
 
 # Modelo de dissertação
+
+<iframe width="790" height="515" src="https://www.youtube.com/embed/3P0BO6zyRe4" data-external= "1" > </iframe>
 
 [Clique aqui](https://1drv.ms/w/s!AmeQYvuxWLjkiaAdblhYzeosmwCwoA?e=jgPsj9) para acessar um modelo de dissertação para você ir escrevendo seu documento dentro do modelo da UNISA.
 
