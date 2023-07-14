@@ -25,5 +25,14 @@ toc:
 
 # RESULTADOS 
 
-<iframe src="https://giphy.com/embed/cfGmVRsJI6wq6noGxP" width="760" height="515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+### Chegou a hora mais importante! A hora que vc conta para o mundo o que você encontrou de resultados! 
 
+---
+
+### Mas como fazer isso? Relaxa, gravei um videozinho para facilitar esse processo e seguindo o passo a passo, tenho certeza que você conseguirá fazer sua seção de resultados! Vamos lá!?
+
+---
+
+<iframe src="https://www.youtube.com/embed/VFyw0MzxpFc" width="760" height="515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+---
