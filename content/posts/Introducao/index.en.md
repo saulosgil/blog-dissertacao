@@ -21,8 +21,6 @@ toc:
   auto: false
 ---
 
-**Documentos importantes** para baixar e iniciar a escrita da sua dissertação de mestrado.
-
 <!--more-->
 
 # INTRODUÇÃO 
