@@ -25,11 +25,17 @@ toc:
 
 # RESULTADOS 
 
-### Chegou a hora mais importante! A hora que vc conta para o mundo o que você encontrou de resultados! 
+Chegou a hora mais importante! 
+
+A hora que você conta para o mundo o que você encontrou de resultados! 
 
 ---
 
-### Mas como fazer isso? Relaxa, gravei um videozinho para facilitar esse processo e seguindo o passo a passo, tenho certeza que você conseguirá fazer sua seção de resultados! Vamos lá!?
+Mas como fazer isso?
+
+Relaxa, gravei um videozinho para facilitar esse processo e, seguindo o passo a passo, tenho certeza que você conseguirá fazer sua seção de resultados!
+
+Vamos lá!?
 
 ---
 
