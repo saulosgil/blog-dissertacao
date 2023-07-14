@@ -27,7 +27,7 @@ toc:
 
 <!--more-->
 
-<iframe width="790" height="515" src="https://www.youtube.com/embed/D7YQQuhf328" data-external= "1" > </iframe>
+<iframe width="390" height="215" src="https://www.youtube.com/embed/D7YQQuhf328" data-external= "1" > </iframe>
 
 ---
 
