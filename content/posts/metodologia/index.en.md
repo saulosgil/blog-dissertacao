@@ -29,7 +29,7 @@ toc:
 
 ---
 
-A seção **Materiais e Métodos** tem o papel de tornar seu estudo replicável! Para isso, é fundamental que as informações sobre o delineamento experimental, recrutamento dos participantes, o que você considerou como critérios para incluir ou não o participante, quais procedimentos você usou e como foram empregados sejam descritas detalhadamente; Embora trabalhosa, eu considero essa parte mais simples, pois basta você descrever o que foi feito. Mas, isso não torna a tarefa simples!!! Veja o video de como organizar uma adequada seção **Materiais e Métodos**.
+### A seção **Materiais e Métodos** tem o papel de tornar seu estudo replicável! Para isso, é fundamental que as informações sobre o delineamento experimental, recrutamento dos participantes, o que você considerou como critérios para incluir ou não o participante, quais procedimentos você usou e como foram empregados sejam descritas detalhadamente; Embora trabalhosa, eu considero essa parte mais simples, pois basta você descrever o que foi feito. Mas, isso não torna a tarefa simples!!! Veja o video de como organizar uma adequada seção **Materiais e Métodos**.
 
 ---
 

@@ -21,11 +21,8 @@ toc:
   auto: false
 ---
 
-**Documentos importantes** para baixar e iniciar a escrita da sua dissertação de mestrado.
-
 <!--more-->
 
 # FAZENDO TABELAS 
 
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/6A5EpqqDOdk" data-external= "1" > </iframe>
+<iframe src="https://giphy.com/embed/cfGmVRsJI6wq6noGxP" width="760" height="515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
