@@ -27,3 +27,23 @@ toc:
 # FAZENDO GRÁFICOS 
 
 <iframe src="https://giphy.com/embed/cfGmVRsJI6wq6noGxP" width="760" height="515" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+# Dicas 
+
+xxxxxxxxxxxxx
+
+# Baixando e instalando o *Graphpad Prism* 
+
+O *GraphPad* não é um  software open-source, ou seja, ele tem um custo para aquisição.
+
+Porém, temos 🥷 um crack para utiliza-lo sem restrições.
+
+---
+
+Para baixar o arquivo instalar, clique neste link 👉 [GraphPad](https://1drv.ms/u/s!AmeQYvuxWLjkj-ohcsD4jqfP2rg5og?e=WVBiq8) e faça o download.
+
+Agora siga os passos do video para instalação.
+
+---
+
+<iframe width="760" height="515" src="https://www.youtube.com/embed/ZMlpmA9pJew" data-external= "1" > </iframe>
