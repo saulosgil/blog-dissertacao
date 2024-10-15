@@ -46,4 +46,4 @@ Agora siga os passos do video para instalação.
 
 ---
 
-<iframe width="760" height="515" src="https://youtu.be/Rbr6deJVclI" data-external= "1" > </iframe>
+<iframe width="760" height="515" src="https://youtube.com/embed/Rbr6deJVclI" data-external= "1" > </iframe>
