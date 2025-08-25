@@ -40,7 +40,7 @@ Porém, temos 🥷 um crack para utiliza-lo sem restrições.
 
 ---
 
-Para baixar o arquivo instalar, clique neste link 👉 [GraphPad](https://1drv.ms/u/s!AmeQYvuxWLjkj-ohOflfpkKeLrNbaw?e=kQGWAm) e faça o download.
+Para baixar o arquivo instalar, clique neste link 👉 [GraphPad](https://1drv.ms/f/c/e4b858b1fb629067/Eq8D2-qpPmJAuPDve2mCRrQBqtEaINtJDOU6V2KNyHzvQw?e=ocUGKd) e faça o download.
 
 Agora siga os passos do video para instalação.
 
